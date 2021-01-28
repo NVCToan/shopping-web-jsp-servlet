@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//Resource/message_en_US.properties=UTF-8
+encoding//Resource/message_vi_VN.properties=UTF-8
+encoding//WebContent/view/admin/view/list-user.jsp=UTF-8
+encoding//WebContent/view/admin/view/table.jsp=UTF-8
+encoding//WebContent/view/client/view/cart.jsp=UTF-8
+encoding//WebContent/view/client/view/footer.jsp=UTF-8
+encoding//WebContent/view/client/view/list-cart.jsp=UTF-8
+encoding//WebContent/view/client/view/myaccount.jsp=UTF-8
+encoding//WebContent/view/client/view/navbar.jsp=UTF-8
+encoding//WebContent/view/client/view/product-detail.jsp=UTF-8
+encoding//WebContent/view/client/view/product-gird.jsp=UTF-8
+encoding//WebContent/view/client/view/product-list.jsp=UTF-8
+encoding//WebContent/view/client/view/product-seach-by-name.jsp=UTF-8
+encoding//WebContent/view/client/view/productSeachByCategory.jsp=UTF-8
+encoding//WebContent/view/client/view/seach.jsp=UTF-8
+encoding//WebContent/view/client/view/topbar.jsp=UTF-8
